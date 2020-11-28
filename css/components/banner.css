@@ -1,0 +1,41 @@
+.banner {
+  position: relative;
+  top: -3.2vh;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  color: black;
+  background-image: url('../../images/hamster.jpg');
+  filter: invert(100%);
+  background-size: cover;
+  width: 100vw;
+  height: 86vh;
+  display: flex;
+}
+
+.banner h1 {
+  font-size: 32pt;
+}
+
+.banner p {
+  font-size: 16pt;
+}
+
+.banner-container {
+  margin: auto;
+  width: 70vw;
+}
+
+.banner-btn {
+  color: black;
+  font-size: 14pt;
+  font-weight: 700;
+  padding: 15px 25px 17px 25px;
+  background-color: #49c517;
+  border-radius: 30px;
+}
+
+.banner-btn:hover {
+  color: #49c517;
+  background-color: black;
+}

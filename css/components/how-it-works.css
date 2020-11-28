@@ -1,0 +1,22 @@
+.how-it-works {
+  text-align: center;
+}
+
+.card-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  margin: 20px;
+  padding: 20px;
+  width: 16vw;
+  border-radius: 1px;
+  box-shadow: 0 0 2px 1px #ddd;
+}
+
+.card img {
+  height: 120px;
+  width: 178gpx;
+}
